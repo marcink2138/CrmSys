@@ -1,0 +1,17 @@
+.appCard {
+    max-width: 20%;
+    max-height: 20%;
+    height: 10%;
+    width: 15%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    background-color: rgb(153, 51, 255) !important;
+}
+
+.appContainer {
+    padding-top: 3%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

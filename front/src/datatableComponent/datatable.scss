@@ -1,0 +1,64 @@
+.datatableActionBar {
+    display: flex;
+    flex-direction: row;
+    background-color: rgba(233, 233, 233, 0.856);
+    min-height: 50px;
+    width: 100%;
+    align-items: center;
+    border: hidden;
+    border-radius: 20px;
+}
+
+.datatableWrapper {
+    margin: 3%;
+    background-color: white;
+    border: hidden;
+    border-radius: 20px;
+}
+
+.datatablePagination {
+    margin-left: 15px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.pageInput {
+    width: 45px;
+    margin-right: 5px;
+}
+
+.pageNumbers {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.recordCounter {
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-left: 15px;
+}
+
+.table {
+    overflow-x: auto;
+}
+
+.chevronButton {
+    border: hidden;
+}
+
+.createButtonInActionBar {
+    margin-left: 63%;
+}
+
+.tdButtons {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}

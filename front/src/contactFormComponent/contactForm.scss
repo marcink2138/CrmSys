@@ -1,0 +1,16 @@
+.contactForm {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.formHeader {
+    font-size: 72px;
+    background: -webkit-linear-gradient(rgb(102, 13, 114), rgb(216, 160, 5));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}

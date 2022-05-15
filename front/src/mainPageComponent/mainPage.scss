@@ -1,0 +1,14 @@
+.appLauncher {
+    height: 88vh;
+    max-height: 88vh;
+    display: block;
+    overflow-y: auto;
+    // background-image: url('bgCosmos.webp');
+    background: -webkit-linear-gradient(rgb(153, 51, 255), rgb(57, 0, 59));
+}
+
+.main {
+    display: block;
+    block-size: fit-content;
+    overflow-y: hidden;
+}

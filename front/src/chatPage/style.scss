@@ -1,0 +1,35 @@
+.whole-page {
+  display: block;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  overflow-y: hidden;
+}
+
+.message-screen {
+  min-height: 88vh;
+}
+
+.person-screen {
+  display: block;
+  position: absolute;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+.person-contact-black {
+  min-height: 5vh;
+  max-height: 5vh;
+}
+
+.butoon-to-swipe {
+  background-color: transparent;
+  border: none;
+}
+
+.actionBarInput {
+  background-color: rgba(233, 233, 233, 0.856);
+  display: flex;
+  margin-left: 1%;
+  flex-direction: row;
+}

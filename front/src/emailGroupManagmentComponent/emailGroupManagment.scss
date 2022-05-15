@@ -1,0 +1,27 @@
+.contactPill {
+    display: flex;
+    flex-direction: row;
+    border: 5px;
+    background-color: rgb(153, 51, 255) !important;
+    border-radius: 20px;
+    align-items: center;
+    margin-right: 10px;
+    max-width: 40%;
+    color: white;
+    padding-left: 7px;
+    padding-right: 5px;
+    margin-top: 10px;
+}
+
+.contactsWrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.buttonClose {
+    height: 6px;
+    width: 6px;
+    margin-left: 5px;
+    margin-right: 5px;
+}

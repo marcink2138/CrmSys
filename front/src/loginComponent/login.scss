@@ -1,0 +1,27 @@
+.loginPane {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 60vh;
+        width: 50%;
+        margin-left: 25%;
+        margin-top: 20vh;
+        padding: 5%;
+        border: hidden;
+        border-radius: 50px;
+        color: white;
+        background-image: url('bgCosmos.webp');
+}
+
+.background {
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0;
+}
+
+.wrongLogin {
+    margin-top: 2%;
+}

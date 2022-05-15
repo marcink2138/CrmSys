@@ -1,0 +1,13 @@
+.helloWrapper {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 15%;
+}
+
+.helloMessage {
+    font-size: 72px;
+    color: white;
+}
